@@ -115,7 +115,7 @@ ghostprotocol/
 
 ## Team NullVoid
 
-Hariprasath · Dhanush S · Jaidev S P · Kalaiyarasan P
+Hariprasath
 
 ## License
 
